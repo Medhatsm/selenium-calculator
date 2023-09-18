@@ -4,7 +4,7 @@
     "executionType": "testsonly",
     "testStage": "Selenium Tests",
      
-    "labId": "integ_master_ftv_calculator",
+    "labId": "${LAB_ID}",
     "runFunctionalTests": true,
     "proxy": "",
     "logEnabled": true,
